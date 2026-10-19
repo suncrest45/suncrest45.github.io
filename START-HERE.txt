@@ -1,0 +1,48 @@
+AIDAN STRAKER — PORTFOLIO REDESIGN
+
+OPEN IT
+Extract the ZIP first, then double-click index.html.
+No installation, account, build step, or local server is needed.
+Keep index.html, styles.css, script.js, and the assets folder together.
+
+The design, images, font, and project breakdowns work offline.
+Demo videos, GitHub, Steam, LinkedIn, and the résumé open on their original
+websites and need an internet connection. Email links open your mail app.
+
+PUT IT ONLINE
+Upload index.html, styles.css, script.js, and assets/ to any static web host.
+Keep their relative paths. No backend or secrets are required.
+This is a standalone HTML site; it is not a Framer project import.
+Nothing has been published and the existing aidanstraker.com is unchanged.
+
+EDIT IT
+index.html   All page copy, links, project breakdowns, and contact details.
+styles.css   Colours, typography, spacing, and mobile layouts.
+script.js    Optional automatic copyright year.
+assets/      Local images, font, and favicon.
+
+BEFORE GOING LIVE
+Review the rewritten copy and confirm the project details are current.
+The public résumé, LinkedIn, GitHub, and demo links were carried over from
+aidanstraker.com. The email address comes from Aidan’s public source header;
+confirm it is the address he wants to use on the portfolio.
+No availability, employment history, testimonials, or performance metrics
+have been invented. Spirit & Steel is explicitly credited as a team project.
+
+CONTENT & ASSET SOURCES
+Original portfolio: https://aidanstraker.com/
+Code: https://github.com/suncrest45/Code-Portfolio
+Telemetry: https://github.com/suncrest45/Unreal-Telemetry-Plugin
+Spirit & Steel screenshot: public Steam listing, app 4426980.
+Frontend screenshot and Blueprint: Aidan’s public Code-Portfolio repository.
+The telemetry diagram is an explanatory diagram, not a product screenshot.
+The Mage Blaster code visual uses selected source lines, with explanatory
+comments; omitted intervening lines are not a complete runnable function.
+Project imagery belongs to its respective creators.
+Inter font: Rasmus Andersson and contributors, SIL Open Font License 1.1.
+See assets/INTER-LICENSE.txt.
+
+DESIGN
+Original black / charcoal / white palette and #0099ff blue accent retained.
+Larger project imagery, clear responsibilities, readable technical context,
+direct demo / source / résumé links, and responsive desktop / mobile layouts.
